@@ -36,11 +36,6 @@ My Wi-Fi card is BCM94360CS2, you need to by a NGFF card like this one. TOSHIBA 
 
 ### ~~HDMI ISSUES - WhateverGreen Fix black screen on igfx since 10.15.5~~
 
-### Buy Me A Coffee
-
-![Buy Me A Coffee](apps/WechatPay.png)
-[PayPal](https://www.paypal.me/iore)
-
 ### FCPX
 
 ![fcpx](apps/fcpx.png)
